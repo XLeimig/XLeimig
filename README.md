@@ -1,3 +1,5 @@
+## Olá, meu nome é Márcio Leimig, tenho 19 anos e estou atualmente no 3º período da faculdade de Ciência da Computação. Este é um resumo do meu percurso até o momento.
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header" />
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=XLeimig&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=DAA520&bg_color=000000" alt="Marcio Leimig github stats" /> 
@@ -33,6 +35,18 @@
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  
+</div></p>
+
+   <hr size="10" width="100%" align="center" noshade>
+<p><div align="center"><b>📲 Social media:</b></div>
+
+<div align="center"> 
+ <a href="https://www.instagram.com/marcio_leimig/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ <a href = "mailto:leimigmarcio@gmail.com"> <img src="https://img.shields.io/badge/-gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
+
+
 </div></p>
 
    <hr size="10" width="100%" align="center" noshade>
