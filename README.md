@@ -45,15 +45,3 @@
  <a href = "mailto:leimigmarcio@gmail.com"> <img src="https://img.shields.io/badge/-gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-
-
-</div></p>
-
-   <hr size="10" width="100%" align="center" noshade>
-<p><div align="center"><b>📲 Social media:</b></div>
-
-<div align="center"> 
- <a href="https://www.instagram.com/marcio_leimig/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white"</a>
- <a href = "mailto:leimigmarcio@gmail.com"> <img src="https://img.shields.io/badge/-gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
