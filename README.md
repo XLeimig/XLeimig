@@ -1,4 +1,4 @@
-## Olá, meu nome é Márcio Leimig, tenho 20 anos e estou atualmente no 4º período da faculdade de Ciência da Computação. Este é um resumo do meu percurso até o momento.
+## Olá, meu nome é Márcio Leimig, tenho 21 anos e estou atualmente no 6º período da faculdade de Ciência da Computação. Este é um resumo do meu percurso até o momento.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header" />
 <div align="center">  
